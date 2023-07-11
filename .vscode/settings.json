@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.yasmin": "yasmin",
+        "stdint.h": "c"
+    }
+}
